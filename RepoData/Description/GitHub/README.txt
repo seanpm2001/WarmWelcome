@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌐️👋️🌐️💾️ WarmWelcome is a protocol for opening a single web-page upon connecting to a Wi-Fi network/hotspot (warm spot) which gives you basic information about the network.
